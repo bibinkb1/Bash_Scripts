@@ -1,5 +1,5 @@
 apt update
-sudo apt instaqll build-essential libgd-dev openssl libssl-dev unzip apache2 gcc make libapache2-mod-php 
+sudo apt install build-essential libgd-dev openssl libssl-dev unzip apache2 gcc make libapache2-mod-php 
 useradd nagios
 groupadd nagcmd
 usermod -a -G nagcmd nagios
