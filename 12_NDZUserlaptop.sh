@@ -10,12 +10,9 @@ sudo apt install filezilla -y
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 sudo apt install ./google-chrome-stable_current_amd64.deb -y
 rm google-chrome-stable_current_amd64.deb
-wget https://go.skype.com/skypeforlinux-64.deb
-sudo apt install ./skypeforlinux-64.deb -y
-rm skypeforlinux-64.deb
-wget https://download.anydesk.com/linux/deb/anydesk_6.0.1-1_amd64.deb
-sudo apt install ./anydesk_6.0.1-1_amd64.deb -y
-rm anydesk_6.0.1-1_amd64.deb
+wget https://download.anydesk.com/linux/anydesk_6.3.2-1_amd64.deb
+sudo apt install ./anydesk_6.3.2-1_amd64.deb -y
+rm anydesk_6.3.2-1_amd64.deb
 wget https://filestore.fortinet.com/forticlient/forticlient_vpn_7.0.7.0246_amd64.deb
 sudo apt install ./forticlient_vpn_7.0.7.0246_amd64.deb -y
 rm forticlient_vpn_7.0.7.0246_amd64.deb
