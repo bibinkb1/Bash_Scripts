@@ -38,4 +38,3 @@ ExecStart=/usr/local/nagios/bin/nagios /usr/local/nagios/etc/nagios.cfg" > /etc/
 systemctl enable /etc/systemd/system/nagios.service
 mv /etc/systemd/nagios.service /etc/systemd/system/nagios.service
 systemctl enable /etc/systemd/system/nagios.service
-systemctl start nagios
