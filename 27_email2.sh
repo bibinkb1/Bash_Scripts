@@ -4,7 +4,7 @@
 SMTP_SERVER="smtp.gmail.com"
 SMTP_PORT="587"
 SMTP_USERNAME="bibinkb444@gmail.com"
-SMTP_PASSWORD="kiht fsnr ffhi utth"
+SMTP_PASSWORD="kiht "
 
 # Recipient email address
 TO="bibinkb165@gmail.com"
