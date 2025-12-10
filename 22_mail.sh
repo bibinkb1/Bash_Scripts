@@ -17,7 +17,7 @@ message = log_file.read()
  
 log_file.close()
 
-password = "gfj47xdzdNVj"
+password = "testpassword"
 msg['From'] = "intranet.alert@ndimensionz.com"
 msg['To'] = "intranet.alert@ndimensionz.com"
 msg['Subject'] = "Patch Update - {0} - {1}".format(myusr, platform.node())
